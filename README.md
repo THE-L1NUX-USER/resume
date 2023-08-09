@@ -45,7 +45,7 @@
 - Set up ESXi-Arm, DDNS-Cloudflare, NAS, and a custom DNS service on the home lab Raspberry Pi.
 
 **WeB.io**  
-* [Website](https://webio.gq)*
+* [Website](https://webio.gq)
 
 - Developed a web interface to interact with IoT devices, utilizing real-time data updates through a PHP backend and a database.
 - Deployed the project on a secure cloud server (Azure) using Cloudflare for enhanced security.
