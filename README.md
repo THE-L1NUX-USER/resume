@@ -45,7 +45,7 @@
 - Set up ESXi-Arm, DDNS-Cloudflare, NAS, and a custom DNS service on the home lab Raspberry Pi.
 
 **WeB.io**  
-*Website: [webio.gq](https://webio.gq)*
+* [Website](https://webio.gq)*
 
 - Developed a web interface to interact with IoT devices, utilizing real-time data updates through a PHP backend and a database.
 - Deployed the project on a secure cloud server (Azure) using Cloudflare for enhanced security.
@@ -54,4 +54,4 @@
 
 - Winner of Smart India Hackathon (SIH-2022).
 - Developed "Sarasmarg," a mobile and web-based solution to monitor road health, in response to a DRDO (NR1177) problem statement.
-- Certificate: [bit.ly/SIH-ojas](https://bit.ly/SIH-ojas)
+- [Certificate](https://bit.ly/SIH-ojas)
